@@ -17,7 +17,7 @@
 
 作者：梅耶 (Scott Meyers) 
 
-链接：https://book.douban.com/subject/1110934/
+链接：https://book.douban.com/subject/5387403/
 
 其中列举的每一个条款都是一个重要考点，也是大家平时用C++开发需要掌握的原则，建议好好理解。
 
